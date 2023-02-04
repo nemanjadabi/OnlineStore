@@ -6,7 +6,7 @@ Online Store
 
 ### About The App:
 
-This app uses the Fake Store Api. This was practice project to explore and dive deeper in various cases that may occure dealing with global state manegament, fetching logics,using MUI library and to have separation of concerns throughout the app.
+This app uses the Fake Store Api. This was practice project to explore and dive deeper in various cases that may occure dealing with global state manegament, fetching logics, using MUI library and to have separation of concerns throughout the app.
 
 ### Technologies:
 
