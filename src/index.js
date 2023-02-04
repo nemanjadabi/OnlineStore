@@ -11,7 +11,7 @@ import store from "./store/index";
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <Routes>
         <Route index element={<Home />} />
         <Route path="/product/:productId" element={<Product />} />
